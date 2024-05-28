@@ -1,0 +1,11 @@
+.root {
+    padding: 30px;
+    background-color: bisque;
+    min-height: 100vh;
+
+    .container {
+        margin: 0 auto;
+        max-width: 1200px;
+        width: 100%;
+    }
+}

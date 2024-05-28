@@ -1,0 +1,12 @@
+.root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    padding: 15px 35px;
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: azure;
+    overflow: hidden;
+}
